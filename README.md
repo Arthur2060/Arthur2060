@@ -26,6 +26,13 @@ Java Spring Boot.
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur2060&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+<div style="display: flex; width: 100%; height: fit-content;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rubiks_cube.svg/734px-Rubiks_cube.svg.png" alt="" width="100px">
+  <img src="https://freesvg.org/img/1347252316.png" alt="" width="100px">
+</div>
+
 <div id="contatos">
-  <a href="https://www.linkedin.com/in/arthur-henrique-4117b82b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-henrique-4117b82b8/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
