@@ -21,13 +21,14 @@ C++
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="50em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50em"/>
+  <div id="status">
+    <a href="https://github.com/Arthur2060">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur2060&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </div>
 </div>
 
-<div id="status">
-  <a href="https://github.com/Arthur2060">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur2060&layout=compact&langs_count=7&theme=dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur2060&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
 
 <div style="display: flex; width: 100%; height: fit-content;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rubiks_cube.svg/734px-Rubiks_cube.svg.png" alt="" width="100px">
