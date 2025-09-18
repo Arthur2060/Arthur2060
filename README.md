@@ -7,7 +7,7 @@ As linguagens em que estou mais focado são:
   - JavaScript, 
   - Java,
   - Kotlin,
-  - C++-
+  - C++
 <div id="tecnologias" style="display: flex;">
   <div id="web-group" style="border: solid gray 5px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50em"/>
