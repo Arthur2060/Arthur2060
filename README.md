@@ -1,15 +1,13 @@
-<link rel="stylesheet" src="style.css"></link>
 
-<h1>Bem-Vindo ao meu github!</h1>
+# Bem-Vindo ao meu github!
 
 Bom dia, boa tarde, boa noite, meu nome é arthur, estudo programação e estou usando este github como forma de mostrar minha evolução...
 As linguagens em que estou mais focado são:
 
-JavaScript, 
-Java,
-Kotlin,
-C++
-
+  - JavaScript, 
+  - Java,
+  - Kotlin,
+  - C++-
 <div id="tecnologias" style="display: flex;">
   <div id="web-group" style="border: solid gray 5px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50em"/>
