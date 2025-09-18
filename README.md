@@ -19,11 +19,6 @@ As linguagens em que estou mais focado são:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="50em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50em"/>
-  <div id="status">
-    <a href="https://github.com/Arthur2060">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur2060&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
 </div>
 
 
